@@ -18,6 +18,7 @@
             </Button.RenderTransform>
         </Button>
         <Button Content="But" HorizontalAlignment="Left" Height="92" Margin="375,275,0,0" VerticalAlignment="Top" Width="287"/>
+        <Button Content="but3" HorizontalAlignment="Left" Height="67" Margin="594,143,0,0" VerticalAlignment="Top" Width="143"/>
 
     </Grid>
 </Window>
